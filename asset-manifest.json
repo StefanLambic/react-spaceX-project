@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-spaceX-project/static/css/main.20717d3c.css",
+    "main.js": "/react-spaceX-project/static/js/main.df41dce1.js",
+    "index.html": "/react-spaceX-project/index.html",
+    "main.20717d3c.css.map": "/react-spaceX-project/static/css/main.20717d3c.css.map",
+    "main.df41dce1.js.map": "/react-spaceX-project/static/js/main.df41dce1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20717d3c.css",
+    "static/js/main.df41dce1.js"
+  ]
+}
